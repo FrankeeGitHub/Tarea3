@@ -1,0 +1,34 @@
+/*Encabezado nivel 1*/
+.titulo{
+    border: 2px #00f solid;
+    margin: 30px 10px 30px 10px;
+    
+}
+.titulo h1{
+    padding: 0px 10px 0px 10px;
+}
+
+/*Encabezado nivel 2*/
+.subtitulos{
+    border: 2px #aaa solid ;
+    margin: 0px 10px 15px 10px;
+}
+.subtitulos h2{
+    padding-left: 5px;
+}
+
+/*Lista de datos de libro*/
+.datos
+{
+    border: 2px #0f0 solid;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.datos li{
+    margin: 15px 0px 15px 0px;
+}
+
+/*Alineación del link Modelo 1*/
+nav.modelo1{
+    text-align: right;
+}

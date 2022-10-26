@@ -1,0 +1,26 @@
+/*Encabezado nivel 1*/
+#titulo{
+    border-bottom: 2px solid;
+    border-color: #00f;
+}
+/*Encabezado nivel 2*/
+.subtitulos{ 
+    border: 2px #aaa solid;
+}
+
+/*Lista de datos de libro*/
+.datos{
+    border-bottom: 4px dotted;
+    border-top: 4px dotted;
+    border-color: #f00;
+}
+
+/*Lista de contenido de libro*/
+.contenido{
+    border: 2px #0f0 dashed;
+}
+
+/*Alineación del link Modelo 2*/
+nav.modelo2{
+    text-align: right;
+}

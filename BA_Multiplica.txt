@@ -1,0 +1,268 @@
+
+PRESENTACION ESCUETA 
+
+EDUCADO, LEVANTAR MANO 
+/////////
+
+
+act
+
+ROOM 2 MI GRUPO
+CAROLINA MENDIBERRI
+
+PAPA, VILAS, BIRRA ALEMANA, MESSI, POLICIA, ARBOLES BOSQUES PAISAJES, CHARLY, COCINERO, BILL GATES, ALBAÑIL, MUJER LINDA FRIDA KAHLO, DEL POTRO, INDIGENAS, MARADONA, (CONSTRUCCION DE PALITOS IMAG 15), MICHAEL JACKSON, (NETFLIX), LGANTE, PERRO, (LIMAR MADERAS), ///JOHN LENNON/// , BARRIO POBRE, RUTA DE VIAJE (VIAJES), NOTEBOOK, CASAS QUINTA. 
+
+EXPLORADOR 
+PORQUE 
+
+ 
+ALIMENTOS
+ 
+ACTOR Y METEOROLOGA 
+
+
+
+
+
+09/06/22
+EXCEL
+
+celular
+cargador celular
+ropa int
+pañue
+anteojos
+libro
+cepillo de dientes
+control remoto
+anotador 
+perfu
+cartas de amor
+doc trab
+billetera
+libr sanita
+colita de pelo
+peine
+foto de perro
+primer diente de leche
+apáratos de ortodoncia
+anitfaz para zzz
+tapones oidos
+maquillaje
+auriculares 
+alicate dentadura postiza
+cortaplumas
+una flor seca
+mazo de cartas
+garantia de la heladera
+llaves de la casa
+diario intimo
+titulo de la escuela
+entradas recital 
+linterna
+
+Categorizar las cosas (las cosas deben ser unicas categorias) 
+Puede haber categorias donde haya elementos que no se pueden agrupar por lo que se puede hacer la categoria "OTROS"
+
+RECUERDOS, HIGIENE, PAPELES IMPORTANTES, DIA A DIA
+
+RESTA 
+=(columna) (fila) - (columna) (fila)
+(resultado) 
+
+=B2-B3 (se pulsa enter) Y DA EL RESULTADO
+
+SUMA DE MESES
+
+=suma (B2:H2)
+
+preguntas examen
+
+¿celda de izq a derechas)
+3.filas
+
+¿celdas que van de arriba hacia abajo?
+1.colum
+
+conj de celdas se llama 
+2.rango
+
+como llamarias a esta celda
+c5
+
+func principal de excel es
+2. crear planillas de calculos
+
+las formulas deben inicar con el signo
+4.= (igual)
+
+para que sirven estos botones
+3.cambiar la alineacion de un texto
+
+graficos
+2.insertar
+
+cambiar form de texto
+1. inicio
+
+ordenar de datos x orden alfabeticos
+datos.
+
+16/06/22
+POWER POINT
+
+PW prueba creo 
+
+agregar parrafos 
+organizar 
+
+para agregar flechas 
+2. Formas
+
+alinear texto a la derecha
+1. Parrafo
+
+uso de efecto de pasar diapositivas a otras 
+3. transiciones 
+
+desaparecer o aparecer objetos 
+2. animaciones
+
+plantillas predeterminadas 
+1. diseño
+
+21/06/22
+LINKEDIN
+
+¿ como podemos adaptarnos a estos cambios?
+pajaro en mano
+revisar medios que disponemos, dentro y fuera del trabajo. se org en 3 categorias
+quien soy: rasgos gustos habilidades
+lo que se: educacion, capacitacion, experiencia
+a quien conozco: mis redes sociales y profesionales
+
+red de retazos
+tratar de construir una red de contactos ideales. Cada persona puede ser aliado. + grande sea la red, reduce la incertidumbre y fortalecer nuestra empleabilidad. ya sea para nuevos empleos o resolver problemas del empleo que ya tenemos. 
+
+Piloto de avion
+se enfoca en la diferencia entre controlar y predecir
+
+medios (quien soy, que se a quienes conozco)-> objetivos (que puedo hacer) e interacciones (a quien conozco) -> compromisos -> nuevos medios o nuevos objetivos
+
+META 
+m -> medible 
+hemos cumplido nuestra meta con claridad, se debe medir de alguna manera 
+
+e-> especifico
+objetivo no ambiguo, tiene que ser preciso y estar bien definido
+
+t-> temporal
+plazo determinado en el esperamos que el objetivo se cumpla
+
+a-> alcanzable 
+equilibrio justo entre lo desafiante y lo alcanzable 
+
+casa frente al mar: 
+M-> tener dinero, tener espacio, tener tiempo, tener el lugar predestinado y el terreno 
+E-> casa frente al mar
+T-> 20 años
+A-> es alcanzable si me pongo a laburar buscando ese lugar 
+
+ESCUDO
+act que realizaran en el diario de bitacora, junto a la meta 
+fortalezas, logros, experiencias y sus conocimientos
+el escudo es inf importante para los CV. 
+
+28/06/22
+PROGRAMACION
+
+Definicion de desarrollo web: especialidad encargada de la informatica encargada de construir y mantener web
+
+full stack = combinacion de front end y back end 
+
+internet = red de redes que contiene materiales, fuentes de inf y almacenam y diversos nodos con dist jerarquias 
+
+servidor = computadora que presta serv e inf a partir de un determ software y funciona como fuente para ser usada por cualquier usuario 
+
+tcp/ip = 2 protocolos de internet que determ como se realiza la transmision de datos 
+
+estos protocolos trabajan en conjunto que se encargan de identificar y establecer la mejor ruta para el origen (el cliente) y el destino (el servidor). A su vez da seguridad porque envia inf de forma fragmentada (paq de datos) y la unifican en el destino
+
+IP PRIV
+identifica equipos dentro de una red privada. gral redes que no sean la propia internet.
+
+DNS 
+POSEE BASE DE DATOS DE DIRECCIONES IP Y NOMBRES DE DOMINIO DE INTERNET 
+
+si escribimos www.google.com (nombre de dominio) podemos obtener la direccion ip y pedir inf al servidor correcto 
+
+HTML
+leng de marcado y su funcion estructurar los elementos de sitios web 
+
+sitio web -> cabeza <head> -> metadatos y recursos externos 
+          -> cuerpo <body> -> noticias fotos e inform (navegador mostrara en pantalla)
+
+alafajor brizna factory 
+desde 1997 alafjor chocolate relleno de dulce de leche cubierto con baño de reposteria semiarmago
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Ejercicio 1</h1>
+    <h1>Esto es un contenido H1</h1>
+    <h2>Esto es un contenido H2</h2>
+    <h3>Esto es un contenido H3</h3>
+    <h4>Esto es un contenido H4</h4>
+    <h5>Esto es un contenido H5</h5>
+    <h6>Esto es un contenido H6</h6>
+
+    <h1>Ejercicio 2</h1>
+
+    <ul>
+        <li>Inicio</li>
+        <li>Sobre Mi</li>
+        <li>Servicios
+            <ul>
+                <li>Fontaneria</li>
+                <li>Electricidad</li>
+                <li>Pintura
+                    <ul>
+                        <li>Parking</li>
+                        <li>Trabajos en Altura</li>
+                        <li>Domicilios</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>Testimonios</li>
+        <li>Contacto</li>
+    </ul>
+
+    <h1>Ejercicio 3</h1>
+
+    <audio src="./Archivos/Gorillaz Dare.mp3"preload="auto"controls></audio>
+
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/ZHMQBPW6b_g" title="Web Basica HTML + Git + GitHub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <h1>Ejercicio 4
+    </h1>
+    <h3>Pizza Online</h3>
+    <h4>Oferta 1</h4>
+    <p>1 Mozzarella + 1 bebida cola = 5 euros</p>
+
+    <h4>Oferta 2</h4>
+    <p>2 Mozzarellas = 6 euros</p>
+
+    <h4>Oferta 3</h4>
+    <p>4 Mozzarellas = 10 euros</p>
+
+    </h2>
+
+</body>
+</html>

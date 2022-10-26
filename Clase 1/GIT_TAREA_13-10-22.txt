@@ -1,0 +1,123 @@
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea
+$ git init
+Initialized empty Git repository in C:/Users/Fran/Desktop/BAMultiplica/Clase 1/Tarea/.git/
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (master)
+$ git add .
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (master)
+$ git commit -m "“Añadido índice del libro.”
+> git commit -m "Añadido índice del libro.”
+error: pathspec 'índice' did not match any file(s) known to git
+error: pathspec 'del' did not match any file(s) known to git
+error: pathspec 'libro.”' did not match any file(s) known to git
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (master)
+$ git commit -m "Añadido índice del libro.”
+>
+>
+> git commit -m "Añadido índice del libro.”
+
+
+error: pathspec 'índice' did not match any file(s) known to git
+error: pathspec 'del' did not match any file(s) known to git
+error: pathspec 'libro.”' did not match any file(s) known to git
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (master)
+$ git commit -m "first commit"
+[master (root-commit) 2048f6c] first commit
+ 1 file changed, 3 insertions(+)
+ create mode 100644 indice.txt
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (master)
+$ git branch -M main
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git remote add origin https://github.com/FrankeeGitHub/libro.git
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ ^C
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 297 bytes | 297.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/FrankeeGitHub/libro.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git add .
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git commit -m "añadido indice de libro"
+[main c92ddc9] añadido indice de libro
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 279 bytes | 279.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/FrankeeGitHub/libro.git
+   2048f6c..c92ddc9  main -> main
+branch 'main' set up to track 'origin/main'.
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git add .
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git commit -m "añadido capitulo 3 sobre gestion de ramas"
+[main 4a13643] añadido capitulo 3 sobre gestion de ramas
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 372 bytes | 372.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/FrankeeGitHub/libro.git
+   c92ddc9..4a13643  main -> main
+branch 'main' set up to track 'origin/main'.
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git commit --amend
+[main 60c71cb] añadido capitulo 3 sobre gestion de ramas al indice
+ Date: Wed Oct 12 21:43:58 2022 -0300
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ git push --force
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 382 bytes | 382.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/FrankeeGitHub/libro.git
+ + 4a13643...60c71cb main -> main (forced update)
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$ ^C
+
+Fran@DESKTOP-JNP7AQK MINGW64 ~/Desktop/BAMultiplica/Clase 1/Tarea (main)
+$
